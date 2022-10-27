@@ -1,0 +1,14 @@
+Party|Acronym|Presidential Candidate|Running Mate|Winner
+Hope Democratic Party|HDP|Ambrose Albert|Haruna Shaba|Peoples Democratic Party 
+United Progressive Party|UPP|Chekwas Okorie|Bello Umar|
+Allied Congress Party of Nigeria|ACPN|Ganiyu Galadima|Balarabe Ahmed|PDP
+United Democratic Party|UDP|Godson Okoye|Haruna Adamu|
+All Progressives Grand Alliance|APGA|Goodluck Jonathan|Namadi Sambo|Goodluck Jonathan
+Labour Party|LP|Goodluck Jonathan|Namadi Sambo|
+Peoples Democratic Party|PDP|Goodluck Jonathan|Namadi Sambo|
+National Conscience Party|NCP|Martin Onovo|Ibrahim Mohammed|Namadi Sambo
+All Progressives Congress|APC|Muhammadu Buhari|Yemi Osinbajo|
+African Democratic Congress|ADC|Nani Ibrahim Ahmad|Obianuju Murphy-Uzohue|
+Kowa Party|KP|Oluremi Sonaiya|Saidu Bobboi|
+Alliance for Democracy|AD|Rafiu Salau|Clinton Cliff Akuchie|
+Action Alliance|AA|Tunde Anifowoshe-Kelani|Paul Ishaka Ofomile|
